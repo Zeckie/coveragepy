@@ -87,6 +87,7 @@ setup_args = dict(
 
     package_data={
         'coverage': [
+            'py.typed',
             'htmlfiles/*.*',
             'fullcoverage/*.*',
         ]
